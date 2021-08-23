@@ -1,0 +1,7 @@
+{
+    "name": "Tetraminos",
+    "version": "0.0.1",
+    "devDependencies": {
+        "livereload": "^0.9.1"
+    }
+}
